@@ -23,7 +23,7 @@
     "mongodb": "^3.5.9",
     "mongoose": "^5.9.21",
     "request": "^2.88.2",
-    "validator": "^13.1.1"
+    "validator": "^13.7.0"
   },"engines": {
     "node": "12.10.0"
   }
